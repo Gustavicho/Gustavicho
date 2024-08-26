@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 Student of Systems Analysis and Development in IFRR.<br>
-🌱 Currently learning RoR and developing personal projects.<br>
+🌱 Currently learning Laravel and developing personal projects.<br>
 💼 Open to freelance work and project collaboration opportunities.<br>
 🎯 Goal: Achieve freedom and do what I love.
 
