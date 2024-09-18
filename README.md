@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **Learn a new framework**
+- 🔭 I’m currently working on **Learn a new lenguage**
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **GoLang**
 
 - 📄 Know about my experiences [linkedin.com/gusta-carvalho](https://www.linkedin.com/in/gusta-carvalho/)
 
