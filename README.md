@@ -55,15 +55,6 @@ I work daily with **PHP/Symfony** on production systems while expanding into **G
 
 ---
 
-## Stats
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=carvalhosauro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhosauro&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
-
----
-
 ## Writing
 
 - 📄 [**SLIs, SLOs e Error Budgets — o que são e como usar**](https://medium.com/@carvalhosauro) · Medium · 2026
