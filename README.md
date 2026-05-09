@@ -1,82 +1,76 @@
 <div align="center">
-  <img height="180" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&lines=Hi+👋,+I'm+Gustavo;Backend+Engineer;Building+Reliable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Gustavo+Carvalho;Backend+%26+Reliability+Engineer;Observability+%7C+Go+%7C+PHP%2FSymfony" />
 </div>
-
-<h3 align="center">
-Backend Engineer focused on production systems, observability and performance
-</h3>
 
 <br/>
 
-<div align="center">
+Backend engineer focused on **how systems behave in production** — not just building features, but understanding failure modes, measuring reliability, and making data-informed architectural decisions.
 
-I work as a **Backend Engineer**, interested in how systems behave **in real production environments**.
+I work daily with **PHP/Symfony** on production systems while expanding into **Go** for projects that demand more control over performance and concurrency. My core interest sits at the intersection of **SRE practices, observability, and backend design**.
 
-My focus goes beyond implementing features — I care about **reliability, observability, performance and cost awareness**, using metrics, logs and traces to understand system behavior and support technical decisions.
+---
 
-Currently working mostly with **PHP-based backend systems**, while gradually transitioning to **Go** to explore more efficient and scalable service designs.
+## Now
 
-</div>
+- 🔐 Building [**goingcrypt**](https://github.com/carvalhosauro/goingcrypt) — self-hosted secret sharing with hybrid encryption (AES-GCM + Argon2id), hexagonal architecture and zero frontend dependencies
+- 📡 Implementing a full observability stack in production: OTel Collector → Tempo · Loki · Prometheus → Grafana
+- ✍️ Writing about reliability engineering on [Medium](https://medium.com/@carvalhosauro) — SLIs, SLOs and error budgets
 
-<hr/>
+---
 
-<div align="center">
-  <h3>🧠 Engineering interests</h3>
+## Focus areas
 
-  🔹 Backend architecture and system design  
-  🔹 Observability (metrics, logs, distributed tracing)  
-  🔹 Performance analysis and optimization  
-  🔹 Asynchronous processing and system resilience  
-  🔹 Data-informed technical decision-making  
+| | |
+|---|---|
+| **Observability** | OpenTelemetry instrumentation, distributed tracing, structured logging, alerting |
+| **Reliability** | SLIs, SLOs, error budgets, incident response, failure mode analysis |
+| **Backend systems** | API design, async processing, queue-based architectures, system resilience |
+| **Performance** | Profiling, bottleneck identification, cost-aware design decisions |
 
-</div>
+---
 
-<hr/>
+## Stack
 
-<div align="center"> 
-  <h3>🛠️ Languages & Tools</h3>
+**Core**
 
-  <!-- Backend Core -->
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-  <br/>
+**Observability**
 
-  <!-- Observability & Platform -->
-  <img src="https://img.shields.io/badge/opentelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/loki-0A0A0A?style=for-the-badge&logo=grafana&logoColor=white" />
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-000000?style=flat-square&logo=grafana&logoColor=white)
 
-  <br/>
+**Platform**
 
-  <!-- Learning -->
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
+---
 
-<hr/>
-
-<div align="center">
-  <h3>📌 What you’ll find here</h3>
-
-  📂 Backend projects focused on real-world scenarios  
-  📂 Experiments with observability and system reliability  
-  📂 Technical explorations in Go and backend design concepts  
-  📂 Repositories documenting decisions, trade-offs and learnings  
-
-</div>
-
-<hr/>
+## Stats
 
 <div align="center">
-  <h3>📫 Connect with me</h3>
-
-  <a href="https://www.linkedin.com/in/gusta-carvalho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=carvalhosauro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhosauro&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
+
+---
+
+## Writing
+
+- 📄 [**SLIs, SLOs e Error Budgets — o que são e como usar**](https://medium.com/@carvalhosauro) · Medium · 2026
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusta-carvalho/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@carvalhosauro)
