@@ -16,7 +16,8 @@ I work daily with **PHP/Symfony** on production systems while building side proj
 
 - 📝 Writing on my new blog — [**carvalhosauro.github.io**](https://carvalhosauro.github.io/) (Hugo + Hextra, hosted on GitHub Pages)
 - 🪵 Designing [**lode**](https://github.com/carvalhosauro/lode) — local-first log investigation engine: point it at a log stream, it mines the recurring structure and surfaces what changed
-- 🔐 Building [**goingcrypt**](https://github.com/carvalhosauro/goingcrypt) — self-hosted secret sharing with hybrid encryption (AES-GCM + Argon2id) and hexagonal architecture
+- 🔁 Building [**open-loops**](https://github.com/carvalhosauro/open-loops) — lists your paused work (unmerged branches across repos) and reconstructs resume context from git and AI sessions
+- 📈 Building [**vigil**](https://github.com/carvalhosauro/vigil) — declarative daemon for monitoring financial assets: assets, rules and notifiers as YAML, live reload, fault-tolerant
 - 📡 Running a full observability stack in production: OTel Collector → Tempo · Loki · Prometheus → Grafana
 
 ---
@@ -25,12 +26,9 @@ I work daily with **PHP/Symfony** on production systems while building side proj
 
 | | | |
 |---|---|---|
-| [**lode**](https://github.com/carvalhosauro/lode) | Go | Local-first log investigation engine — mines log structure, queries it, surfaces what changed. One static binary, no cluster |
-| [**goingcrypt**](https://github.com/carvalhosauro/goingcrypt) | Go | Self-hosted secret sharing — hybrid encryption (AES-GCM + Argon2id), hexagonal architecture, zero frontend dependencies |
-| [**watchman**](https://github.com/carvalhosauro/watchman) | Go | "Noise or worth a look?" — deterministic multi-signal anomaly engine for the B3 assets you hold, in one readable screen |
-| [**vigil**](https://github.com/carvalhosauro/vigil) | Elixir | Declarative daemon for monitoring financial assets — assets, rules and notifiers as YAML, live reload, fault-tolerant |
 | [**open-loops**](https://github.com/carvalhosauro/open-loops) | Rust | Lists your paused work (unmerged branches across repos) and reconstructs resume context from git and AI sessions |
-| [**local-ticker-wallet**](https://github.com/carvalhosauro/local-ticker-wallet) | Rust | Terminal-first personal stock wallet for B3 — local trades, background polling, positions and P&L in a fast TUI |
+| [**vigil**](https://github.com/carvalhosauro/vigil) | Elixir | Declarative daemon for monitoring financial assets — assets, rules and notifiers as YAML, live reload, fault-tolerant |
+| [**lode**](https://github.com/carvalhosauro/lode) | Rust | Local-first log investigation engine — mines log structure, queries it, surfaces what changed. One static binary, no cluster |
 
 ---
 
@@ -76,8 +74,8 @@ I work daily with **PHP/Symfony** on production systems while building side proj
 ## Writing
 
 - 🌐 [**carvalhosauro.github.io**](https://carvalhosauro.github.io/) — my blog: software engineering, architecture, reliability and reading notes (EN · PT-BR)
+- 📄 [Achava que era a ferramenta. Sempre fui eu](https://carvalhosauro.hashnode.dev/eu-achava-que-era-a-ferramenta-sempre-fui-eu) · Hashnode · 2026
 - 📄 [SLIs, SLOs e Error Budgets — o que são e como usar](https://medium.com/@carvalhosauro) · Medium · 2026
-
 ---
 
 ## Connect
