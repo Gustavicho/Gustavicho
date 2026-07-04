@@ -1,20 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Gustavo+Carvalho;Backend+%26+Reliability+Engineer;Observability+%7C+Go+%7C+PHP%2FSymfony" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Gustavo+Carvalho;Backend+%26+Reliability+Engineer;Observability+%7C+Go+%7C+Rust+%7C+PHP%2FSymfony" />
 </div>
 
 <br/>
 
 Backend engineer focused on **how systems behave in production** — not just building features, but understanding failure modes, measuring reliability, and making data-informed architectural decisions.
 
-I work daily with **PHP/Symfony** on production systems while expanding into **Go** for projects that demand more control over performance and concurrency. My core interest sits at the intersection of **SRE practices, observability, and backend design**.
+I work daily with **PHP/Symfony** on production systems while building side projects in **Go**, **Rust** and **Elixir** — mostly **local-first, terminal-first tools**: single static binaries, no accounts, no servers, every decision explained. My core interest sits at the intersection of **SRE practices, observability, and backend design**.
+
+✍️ I'm building a technical reference in public at [**carvalhosauro.github.io**](https://carvalhosauro.github.io/) — software engineering, architecture, reliability and reading notes, in English and Portuguese.
 
 ---
 
 ## Now
 
-- 🔐 Building [**goingcrypt**](https://github.com/carvalhosauro/goingcrypt) — self-hosted secret sharing with hybrid encryption (AES-GCM + Argon2id), hexagonal architecture and zero frontend dependencies
-- 📡 Implementing a full observability stack in production: OTel Collector → Tempo · Loki · Prometheus → Grafana
-- ✍️ Writing about reliability engineering on [Medium](https://medium.com/@carvalhosauro) — SLIs, SLOs and error budgets
+- 📝 Writing on my new blog — [**carvalhosauro.github.io**](https://carvalhosauro.github.io/) (Hugo + Hextra, hosted on GitHub Pages)
+- 🪵 Designing [**lode**](https://github.com/carvalhosauro/lode) — local-first log investigation engine: point it at a log stream, it mines the recurring structure and surfaces what changed
+- 🔐 Building [**goingcrypt**](https://github.com/carvalhosauro/goingcrypt) — self-hosted secret sharing with hybrid encryption (AES-GCM + Argon2id) and hexagonal architecture
+- 📡 Running a full observability stack in production: OTel Collector → Tempo · Loki · Prometheus → Grafana
+
+---
+
+## Projects
+
+| | | |
+|---|---|---|
+| [**lode**](https://github.com/carvalhosauro/lode) | Go | Local-first log investigation engine — mines log structure, queries it, surfaces what changed. One static binary, no cluster |
+| [**goingcrypt**](https://github.com/carvalhosauro/goingcrypt) | Go | Self-hosted secret sharing — hybrid encryption (AES-GCM + Argon2id), hexagonal architecture, zero frontend dependencies |
+| [**watchman**](https://github.com/carvalhosauro/watchman) | Go | "Noise or worth a look?" — deterministic multi-signal anomaly engine for the B3 assets you hold, in one readable screen |
+| [**vigil**](https://github.com/carvalhosauro/vigil) | Elixir | Declarative daemon for monitoring financial assets — assets, rules and notifiers as YAML, live reload, fault-tolerant |
+| [**open-loops**](https://github.com/carvalhosauro/open-loops) | Rust | Lists your paused work (unmerged branches across repos) and reconstructs resume context from git and AI sessions |
+| [**local-ticker-wallet**](https://github.com/carvalhosauro/local-ticker-wallet) | Rust | Terminal-first personal stock wallet for B3 — local trades, background polling, positions and P&L in a fast TUI |
 
 ---
 
@@ -25,7 +41,7 @@ I work daily with **PHP/Symfony** on production systems while expanding into **G
 | **Observability** | OpenTelemetry instrumentation, distributed tracing, structured logging, alerting |
 | **Reliability** | SLIs, SLOs, error budgets, incident response, failure mode analysis |
 | **Backend systems** | API design, async processing, queue-based architectures, system resilience |
-| **Performance** | Profiling, bottleneck identification, cost-aware design decisions |
+| **Local-first tooling** | Single static binaries, deterministic engines, TUIs/CLIs, no external runtime |
 
 ---
 
@@ -36,6 +52,8 @@ I work daily with **PHP/Symfony** on production systems while expanding into **G
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -57,11 +75,13 @@ I work daily with **PHP/Symfony** on production systems while expanding into **G
 
 ## Writing
 
-- 📄 [**SLIs, SLOs e Error Budgets — o que são e como usar**](https://medium.com/@carvalhosauro) · Medium · 2026
+- 🌐 [**carvalhosauro.github.io**](https://carvalhosauro.github.io/) — my blog: software engineering, architecture, reliability and reading notes (EN · PT-BR)
+- 📄 [SLIs, SLOs e Error Budgets — o que são e como usar](https://medium.com/@carvalhosauro) · Medium · 2026
 
 ---
 
 ## Connect
 
+[![Blog](https://img.shields.io/badge/Blog-carvalhosauro.github.io-3B82F6?style=flat-square&logo=hugo&logoColor=white)](https://carvalhosauro.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusta-carvalho/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@carvalhosauro)
